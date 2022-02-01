@@ -14,7 +14,7 @@ so that I can organize and plan my business
 
 
 # Usage
-In order to run application first run npm install in your CLI. Once installed, run node server in CLI to start prompts
+In order to run application first run npm install in your CLI. Once installed, run node server in CLI to start prompts.
 ctrl + c to quit app
 
 # Visual
